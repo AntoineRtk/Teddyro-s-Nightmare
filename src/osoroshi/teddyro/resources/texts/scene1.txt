@@ -1,0 +1,8 @@
+talk Approchez vous, n'ayez pas peur...
+troupcoming
+talk En fait, je n'ai besoin que de toi, Snado.
+talk Sortez vous autres !
+troupexiting
+talk J'ai assez joué... Je vais te demander un service mon cher.
+talk Tu vas devoir l'exterminer. Attends le au château, il arrivera d'ici peu.
+talk Son cauchemar se terminera... Niark...
